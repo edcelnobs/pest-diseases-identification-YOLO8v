@@ -1,12 +1,12 @@
 ## 🌿 Plant Disease Detection System (YOLOv8 + Gradio)
 
 A deep learning-based plant disease detection system using Ultralytics YOLOv8 and a Gradio web interface, deployed on Hugging Face Spaces. The model classifies and detects plant leaf conditions and highlights diseases in real-time.
+## 🚀 Demo
 ## 📷 Example Output
 
 ### Healthy Plant vs Diseased Plant Prediction
 
 ![Sample Output](sample.png)
-🚀 Demo
 
 ## 👉 Upload a leaf image and the system will:
 
@@ -15,7 +15,7 @@ Identify diseases
 Show bounding boxes for infected leaves
 Indicate whether the plant is healthy or diseased
 
-##📌 Classes Supported
+## 📌 Classes Supported
 
 -Eggplant Healthy
 -Eggplant Unhealthy – Mosaic Virus
