@@ -28,11 +28,6 @@ Task: Object Detection
 Dataset: Plant disease image dataset (custom annotated)
 ⚙️ Installation
 
-Clone the repository:
-
-git clone https://huggingface.co/spaces/your-username/plant-disease-detector
-cd plant-disease-detector
-
 Install dependencies:
 
 pip install -r requirements.txt
