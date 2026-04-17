@@ -96,9 +96,6 @@ Gradio
 PyTorch
 Hugging Face Spaces
 
-## 📷 Example Output
-(Insert screenshots of healthy vs diseased predictions here)
-
 ## 📜 License
 
 For academic and research use only.
